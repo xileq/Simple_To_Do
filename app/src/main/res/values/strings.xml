@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="clear">clear</string>
+    <string name="wrongindex">Wrong index number</string>
+    <string name="empty">You don\'t have any task to remove</string>
+    <string name="addtask">Type in a new task here</string>
+    <string name="del">Type in the index of the task to be removed</string>
+    <string-array name="spin">
+        <item>Add a new task</item>;
+        <item>Remove a task</item>;
+
+    </string-array>
+</resources>
